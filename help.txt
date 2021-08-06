@@ -1,0 +1,15 @@
+
+WELCOME DODO'S BASIC CLI APP
+Further help please contact https://www.linkedin.com/in/dogukanyigiter
+
+Command Codes
+arch = architecture
+cpu = cpus information
+type = os type
+platform = os platform
+file = Working file location
+node = node location
+up = Returns the system uptime in number of seconds.
+env = Returns the user environment
+memory = Returns the memory usage of the Node.js process measured in bytes
+version = Returns the Node.js version
